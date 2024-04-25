@@ -26,7 +26,7 @@ Work Directory && Local Repository => git diff HEAD
 ------------------------------------------------------------------------------
 
 git --version  
-git config --global user.name "Shantonu Acharjee"
+git config --global user.name "Shantonu-Acharjee"
 git config --global user.email "shantonuacharjee@gmail.com" / git config user.email "shantonuacharjee@gmail.com"
 git config --list // to show username &  email
 
