@@ -12,9 +12,11 @@ Local Repository ---> Remote Repository => git push
 Work Directory   ---> Local Repository  => git merge
 
 
+
 ------------------------------------------------------------------------------
 
 Remote Repository ---> Local Repository => git fetch
+All Branches Remote Repository  ---> Local Repository  => git fetch --all
 Local Repository  ---> Work Directory   => git checkout
 Remote Repository ---> Work Directory   => git clone / git pull
 
